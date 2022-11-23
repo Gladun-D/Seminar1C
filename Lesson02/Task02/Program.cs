@@ -6,9 +6,13 @@
 // Печать 2 цифры
 
 Console.WriteLine("Ввести трёхзначное число");
+string number = Console.ReadLine();
+int stringlen = 3;
+int numberlen = number.lenght;
 while(true)
 {
-    string number = Console.ReadLine();
+    if 
+    string (number == Console.ReadLine();
     Console.WriteLine("{0}->{1}",number,number[7]);
     break;
 }
