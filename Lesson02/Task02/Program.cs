@@ -8,14 +8,13 @@
 Console.WriteLine("Ввести трёхзначное число");
 string number = Console.ReadLine();
 int stringlen = 3;
-int numberlen = number.lenght;
-while(true)
-{
-    if 
-    string (number == Console.ReadLine();
-    Console.WriteLine("{0}->{1}",number,number[7]);
-    break;
-}
+int numberlen = number.Lenght;
+    while(true)
+    {
+        if(numberlen -- stringlen)
+        Console.WriteLine("{0}->{1}",number,number[1]);
+        break;
+    }
 
 
 
