@@ -1,0 +1,5 @@
+C:\Users\gladu\OneDrive\Документы\Education\Example\Seminar\obj\Debug\net6.0\Seminar.csproj.AssemblyReference.cache
+C:\Users\gladu\OneDrive\Документы\Education\Example\Seminar\obj\Debug\net6.0\Seminar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gladu\OneDrive\Документы\Education\Example\Seminar\obj\Debug\net6.0\Seminar.AssemblyInfoInputs.cache
+C:\Users\gladu\OneDrive\Документы\Education\Example\Seminar\obj\Debug\net6.0\Seminar.AssemblyInfo.cs
+C:\Users\gladu\OneDrive\Документы\Education\Example\Seminar\obj\Debug\net6.0\Seminar.csproj.CoreCompileInputs.cache
