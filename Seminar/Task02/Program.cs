@@ -4,7 +4,6 @@
 //2. Метод - поиска положительных элементов и отрицательных 
 //
 //
-
-
-
-Console.WriteLine("Hello, World!");
+int A = -5;
+int B = 5;
+Console.WriteLine($"{A}..{B}");
