@@ -8,6 +8,8 @@
 //     Console.WriteLine();
 // }
 
+// Сортировка массива 
+
 int[] arr = {1, 5, 4, 6, 7, 8, 9, 2, 2, 10};
 void PrintArray(int[] array)
 {
