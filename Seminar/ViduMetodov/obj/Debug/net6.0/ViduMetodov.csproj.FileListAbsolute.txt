@@ -1,0 +1,15 @@
+C:\Users\gladu\OneDrive\Документы\Education\Example\Seminar\ViduMetodov\bin\Debug\net6.0\ViduMetodov.exe
+C:\Users\gladu\OneDrive\Документы\Education\Example\Seminar\ViduMetodov\bin\Debug\net6.0\ViduMetodov.deps.json
+C:\Users\gladu\OneDrive\Документы\Education\Example\Seminar\ViduMetodov\bin\Debug\net6.0\ViduMetodov.runtimeconfig.json
+C:\Users\gladu\OneDrive\Документы\Education\Example\Seminar\ViduMetodov\bin\Debug\net6.0\ViduMetodov.dll
+C:\Users\gladu\OneDrive\Документы\Education\Example\Seminar\ViduMetodov\bin\Debug\net6.0\ViduMetodov.pdb
+C:\Users\gladu\OneDrive\Документы\Education\Example\Seminar\ViduMetodov\obj\Debug\net6.0\ViduMetodov.csproj.AssemblyReference.cache
+C:\Users\gladu\OneDrive\Документы\Education\Example\Seminar\ViduMetodov\obj\Debug\net6.0\ViduMetodov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gladu\OneDrive\Документы\Education\Example\Seminar\ViduMetodov\obj\Debug\net6.0\ViduMetodov.AssemblyInfoInputs.cache
+C:\Users\gladu\OneDrive\Документы\Education\Example\Seminar\ViduMetodov\obj\Debug\net6.0\ViduMetodov.AssemblyInfo.cs
+C:\Users\gladu\OneDrive\Документы\Education\Example\Seminar\ViduMetodov\obj\Debug\net6.0\ViduMetodov.csproj.CoreCompileInputs.cache
+C:\Users\gladu\OneDrive\Документы\Education\Example\Seminar\ViduMetodov\obj\Debug\net6.0\ViduMetodov.dll
+C:\Users\gladu\OneDrive\Документы\Education\Example\Seminar\ViduMetodov\obj\Debug\net6.0\refint\ViduMetodov.dll
+C:\Users\gladu\OneDrive\Документы\Education\Example\Seminar\ViduMetodov\obj\Debug\net6.0\ViduMetodov.pdb
+C:\Users\gladu\OneDrive\Документы\Education\Example\Seminar\ViduMetodov\obj\Debug\net6.0\ViduMetodov.genruntimeconfig.cache
+C:\Users\gladu\OneDrive\Документы\Education\Example\Seminar\ViduMetodov\obj\Debug\net6.0\ref\ViduMetodov.dll
