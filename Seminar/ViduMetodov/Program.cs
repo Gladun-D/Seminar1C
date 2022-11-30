@@ -30,16 +30,28 @@ int year = Method3();
 // Console.WriteLine(year);
 
 // Вид 4 - Методы которые что-то принимают и что-то возвращают.
+// Цикл While
+// string Method4(int count, string text)
+// {
+//     int i = 0;
+//     string result = string.Empty;
+//     while (i < count)
+//     {
+//         result = result + text;
+//         i++;
+//     }
+//     return result;
+// }
+
 string Method4(int count, string text)
 {
     int i = 0;
     string result = string.Empty;
-    while (i < count)
+    for(i = 0; i < count; i++)
     {
         result = result + text;
-        i++;
     }
     return result;
 }
-string res = Method4(10, "Женя ты супер!\n");
+string res = Method4(5, "Женя ты супер!\n");
 Console.WriteLine(res);
