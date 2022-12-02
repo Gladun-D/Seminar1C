@@ -1,0 +1,15 @@
+C:\Users\gladu\OneDrive\Документы\Education\Example\Lesson07\bin\Debug\net6.0\Lesson07.exe
+C:\Users\gladu\OneDrive\Документы\Education\Example\Lesson07\bin\Debug\net6.0\Lesson07.deps.json
+C:\Users\gladu\OneDrive\Документы\Education\Example\Lesson07\bin\Debug\net6.0\Lesson07.runtimeconfig.json
+C:\Users\gladu\OneDrive\Документы\Education\Example\Lesson07\bin\Debug\net6.0\Lesson07.dll
+C:\Users\gladu\OneDrive\Документы\Education\Example\Lesson07\bin\Debug\net6.0\Lesson07.pdb
+C:\Users\gladu\OneDrive\Документы\Education\Example\Lesson07\obj\Debug\net6.0\Lesson07.csproj.AssemblyReference.cache
+C:\Users\gladu\OneDrive\Документы\Education\Example\Lesson07\obj\Debug\net6.0\Lesson07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gladu\OneDrive\Документы\Education\Example\Lesson07\obj\Debug\net6.0\Lesson07.AssemblyInfoInputs.cache
+C:\Users\gladu\OneDrive\Документы\Education\Example\Lesson07\obj\Debug\net6.0\Lesson07.AssemblyInfo.cs
+C:\Users\gladu\OneDrive\Документы\Education\Example\Lesson07\obj\Debug\net6.0\Lesson07.csproj.CoreCompileInputs.cache
+C:\Users\gladu\OneDrive\Документы\Education\Example\Lesson07\obj\Debug\net6.0\Lesson07.dll
+C:\Users\gladu\OneDrive\Документы\Education\Example\Lesson07\obj\Debug\net6.0\refint\Lesson07.dll
+C:\Users\gladu\OneDrive\Документы\Education\Example\Lesson07\obj\Debug\net6.0\Lesson07.pdb
+C:\Users\gladu\OneDrive\Документы\Education\Example\Lesson07\obj\Debug\net6.0\Lesson07.genruntimeconfig.cache
+C:\Users\gladu\OneDrive\Документы\Education\Example\Lesson07\obj\Debug\net6.0\ref\Lesson07.dll
