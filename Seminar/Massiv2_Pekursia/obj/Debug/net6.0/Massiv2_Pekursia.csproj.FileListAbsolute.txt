@@ -1,0 +1,15 @@
+C:\Users\gladu\OneDrive\Документы\Education\Example\Seminar\Massiv2_Pekursia\bin\Debug\net6.0\Massiv2_Pekursia.exe
+C:\Users\gladu\OneDrive\Документы\Education\Example\Seminar\Massiv2_Pekursia\bin\Debug\net6.0\Massiv2_Pekursia.deps.json
+C:\Users\gladu\OneDrive\Документы\Education\Example\Seminar\Massiv2_Pekursia\bin\Debug\net6.0\Massiv2_Pekursia.runtimeconfig.json
+C:\Users\gladu\OneDrive\Документы\Education\Example\Seminar\Massiv2_Pekursia\bin\Debug\net6.0\Massiv2_Pekursia.dll
+C:\Users\gladu\OneDrive\Документы\Education\Example\Seminar\Massiv2_Pekursia\bin\Debug\net6.0\Massiv2_Pekursia.pdb
+C:\Users\gladu\OneDrive\Документы\Education\Example\Seminar\Massiv2_Pekursia\obj\Debug\net6.0\Massiv2_Pekursia.csproj.AssemblyReference.cache
+C:\Users\gladu\OneDrive\Документы\Education\Example\Seminar\Massiv2_Pekursia\obj\Debug\net6.0\Massiv2_Pekursia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gladu\OneDrive\Документы\Education\Example\Seminar\Massiv2_Pekursia\obj\Debug\net6.0\Massiv2_Pekursia.AssemblyInfoInputs.cache
+C:\Users\gladu\OneDrive\Документы\Education\Example\Seminar\Massiv2_Pekursia\obj\Debug\net6.0\Massiv2_Pekursia.AssemblyInfo.cs
+C:\Users\gladu\OneDrive\Документы\Education\Example\Seminar\Massiv2_Pekursia\obj\Debug\net6.0\Massiv2_Pekursia.csproj.CoreCompileInputs.cache
+C:\Users\gladu\OneDrive\Документы\Education\Example\Seminar\Massiv2_Pekursia\obj\Debug\net6.0\Massiv2_Pekursia.dll
+C:\Users\gladu\OneDrive\Документы\Education\Example\Seminar\Massiv2_Pekursia\obj\Debug\net6.0\refint\Massiv2_Pekursia.dll
+C:\Users\gladu\OneDrive\Документы\Education\Example\Seminar\Massiv2_Pekursia\obj\Debug\net6.0\Massiv2_Pekursia.pdb
+C:\Users\gladu\OneDrive\Документы\Education\Example\Seminar\Massiv2_Pekursia\obj\Debug\net6.0\Massiv2_Pekursia.genruntimeconfig.cache
+C:\Users\gladu\OneDrive\Документы\Education\Example\Seminar\Massiv2_Pekursia\obj\Debug\net6.0\ref\Massiv2_Pekursia.dll
