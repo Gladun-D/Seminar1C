@@ -18,6 +18,7 @@ void FillArrayRandomNumbers(int[] numbers)
             numbers[i] = new Random().Next(1,10);
         }
 }
+
 void PrintArray(int[] numbers)
 {
     Console.Write("[ ");
@@ -27,4 +28,5 @@ void PrintArray(int[] numbers)
         }
     Console.Write("]");
     Console.WriteLine();
+    
 }
