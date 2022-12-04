@@ -25,7 +25,7 @@ int[] Sum(int[] f, int[] g)
     resultMax = powG;
     resultMin = powF;
   }
-
+// Создаём результирующий многочлен, который содержит в себе показатель многочлена с наибольшей степенью.
 int[] result = new int[resultMax];
 
 for (int i = 0; i < resultMin; i++)
@@ -45,8 +45,8 @@ for (int i = 0; i < resultMax; i++)
 int[] Dif(int[] f, int[] g)
 
 {
-  int powF = f.Length;
-  int powG = g.Length;
+  int powF = f.Length;// показатель первого многочлена - он является длинной
+  int powG = g.Length;// показатель второго многочлена - он тоже является длинной
 
   int resultMax = powF;
   int resultMin = powG;
@@ -56,7 +56,7 @@ int[] Dif(int[] f, int[] g)
     resultMax = powG;
     resultMin = powF;
   }
-
+// Создаём результирующий многочлен, который содержит в себе показатель многочлена с наибольшей степенью.
   int[] result = new int[resultMax];
 
   for (int i = 0; i < resultMin; i++)
